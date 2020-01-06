@@ -8,6 +8,6 @@ public class Main {
         SpecificClass specificClass = new SpecificClass(69, "yeet nr 2");
         System.out.println(specificClass.testMethod());
         System.out.println(specificClass.getYeet_2());
-
+        System.out.println("yeet");
     }
 }
